@@ -14,3 +14,8 @@ Assignment No. 3
 
 | [.html](https://shivashirsath.github.io/DSL/page/assignment_3.html) | [.ipynb](assignment_3.ipynb) |
 | :-----------------------------------------------------------------: | :--------------------------: |
+
+Assignment No. 4
+
+| [.html](https://shivashirsath.github.io/DSL/page/assignment_4.html) | [.ipynb](assignment_4.ipynb) |
+| :-----------------------------------------------------------------: | :--------------------------: |
